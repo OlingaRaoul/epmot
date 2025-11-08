@@ -1,5 +1,5 @@
 # epmot
-Enterprise Performance Monitoring &amp; Optimization Toolkit
+Enterprise Performance Monitoring &amp; Optimisation Toolkit
 # Main Topics 
 Project overview
 Key features
@@ -23,3 +23,6 @@ epmot/
 ├── dashboard/
 │   └── app.py
 └── LICENSE
+
+# Project Overview
+
