@@ -8,4 +8,4 @@ def analyze_log(file_path):
     print(f"404 Errors: {errors_404}, 500 Errors: {errors_500}")
 
 if __name__ == "__main__":
-    analyze_log("/var/log/apache2/access.log")
+    analyze_log("test_access.log") #path to the log file.
