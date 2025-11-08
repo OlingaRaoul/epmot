@@ -94,4 +94,4 @@ MIT License
 Pull requests are welcome. For major changes, please open an issue first.
 
 ## 📧 Contact
-For questions or support, contact [your-email@example.com]
+For questions or support, contact [olingatoh3.com]
